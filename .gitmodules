@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bursts"]
+	path = bursts
+	url = https://github.com/cran/bursts
+	shallow = true
+	registered = true
